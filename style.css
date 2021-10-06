@@ -1,19 +1,14 @@
 body {
-    background-color: #d6d4e0;
+    background-color: #585555;
     color: white;
-    /* background-image: url('https://cdn.pixabay.com/photo/2018/02/16/11/05/trace-3157431_1280.jpg');
-} */
+}
+
 header {
     display: flex;
-    /* height: 200px; */
     justify-content: space-around;
     align-items: baseline;
-    /* text-align: center */
-    /* padding: 2%; */
-    /* font-size: 38px; */
-    /* background-image: url (https://static.vecteezy.com/system/resources/thumbnails/001/339/377/small/pastel-coloured-low-poly-banner-design-free-vector.jpg) ; */
-    
 }
+   
 h1 {
     font-family: 'Bonheur Royale', cursive;
     display: flex;
@@ -54,11 +49,11 @@ footer {
 main,
 nav,
 footer,
-header
+header,
 }
 @media screen and (min-width: 412px) {
     main,
     nav,
     footer,
-    header
+    header,
     }
